@@ -57,4 +57,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "faker", "~> 2.21"
 
+<<<<<<< HEAD
 gem "wdm", "~> 0.1.1"
+=======
+gem "devise", "~> 4.8"
+>>>>>>> e698abe3105807269c4482b0fc52221a2a64c7a3
